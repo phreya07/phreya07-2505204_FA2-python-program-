@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/shethwalaphreya07-6728s-projects/v0-google-cloud-application](https://vercel.com/shethwalaphreya07-6728s-projects/v0-google-cloud-application)**
+http://localhost:3000/
 
 ## Build your app
 
